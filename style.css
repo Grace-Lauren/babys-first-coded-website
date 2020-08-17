@@ -1,1 +1,13 @@
-what will happen
+
+h1 {
+   color: #0A2239;
+   text-transform: uppercase;  
+}
+
+a {
+  color: #00ACAB;
+}
+a:hover {
+  color: #0A2239;
+ 
+}

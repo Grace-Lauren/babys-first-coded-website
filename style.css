@@ -9,7 +9,7 @@ a:hover {
   color: #0a2239;
   padding: 10px;
   width: 400px;
-  border-radius: 40% 30%/25% 40%;
+  border-radius: 40% 60% 40% 60% / 30% 36% 64% 70%;
   margin-right: 150px;
   margin-left: 40px;
 }

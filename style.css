@@ -12,11 +12,11 @@ a:hover {
   color: #0A2239;
 }
 .box-1 {
-  background: #ff7fff7;
+  background: #f7fff7;
   color: #0a2239;
   padding: 10px;
   width: 350px;
-  border-radius: 30% 25%/20% 30%;
+  border-radius: 40% 30%/25% 50%;
   margin-right: 150px;
   margin-left: 40px;
 }

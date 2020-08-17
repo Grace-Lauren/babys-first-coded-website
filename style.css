@@ -13,5 +13,8 @@ a:hover {
   background: #ffeaee;
   border-radius: 30% 25%/20% 30%;
   color: #0a2239;
-  padding: 3em;
+  padding: 10em;
+  width: 32em;
+  border: 5em #0A2239;
+  margin: 0;
 }

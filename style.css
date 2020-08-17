@@ -2,20 +2,20 @@
 h1 {
    color: #0A2239;
    text-transform: uppercase;
-   font-family: "Courier New", Courier, monospace;
 }
-
 a {
   color: #00ACAB;
 }
 a:hover {
   color: #0A2239;
- 
 }
-
-#projects {
+.box-1 {
   box-sizing: border-box;
+  width: 300px;
+  border: 15px;
+  border-style: outset;
+  padding: 50px;
+  margin: 20px
   background-color: #FFEAEE;
   color: #0A2239;
-  font-family: "Courier New", Courier, monospace;
 }

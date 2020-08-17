@@ -21,7 +21,7 @@ a:hover {
   color: #0a2239;
   padding: 10px;
   width: 350px;
-  border: 5px solid #0A2239;
+  border-radius: 30% 25%/20% 30%;
   margin-right: 150px;
   margin-left: 40px;
 }

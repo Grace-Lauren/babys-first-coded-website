@@ -10,12 +10,8 @@ a:hover {
   color: #0A2239;
 }
 .box-1 {
-  box-sizing: border-box;
-  width: 300px;
-  border: 15px;
-  border-style: outset;
-  padding: 50px;
-  margin: 20px
-  background-color: #FFEAEE;
-  color: #0A2239;
+  background: #ffeaee;
+  border-radius: 30% 25%/20% 30%;
+  color: #0a2239;
+  padding: 3em;
 }

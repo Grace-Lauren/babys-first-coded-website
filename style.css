@@ -40,6 +40,7 @@ ul .links {
 
 a {
   color: #00acab;
+  text-decoration: none;
 }
 a:hover {
   color: #0a2239;

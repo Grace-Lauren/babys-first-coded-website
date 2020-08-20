@@ -4,6 +4,8 @@ html {
   }
 body {
   font-family: 'Cutive Mono', monospace;
+  width: 600px;
+  margin-left: 40px;
 }
 .site-title {
   letter-spacing: 1px;
@@ -12,7 +14,7 @@ body {
 .box-1 {   
   padding: 10px;
   width: 400px;
-  margin-left: 40px;
+  margin-left: 80px;
   border: thin solid #0a2239;
 /*   border-radius: 40% 60% 40% 60% / 30% 36% 64% 70%; */
 /*   background-color: #7777; */
